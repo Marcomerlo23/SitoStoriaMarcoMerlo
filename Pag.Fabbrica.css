@@ -1,0 +1,85 @@
+.Testo1{
+    position: absolute;
+    top: 0%;
+    left: 0px;
+    width: 680px;
+    height: 953px;
+    background-color: black;
+}
+
+.Testo1 a{
+    text-decoration: none;
+    color: rgb(187, 9, 9);
+}
+
+.Testo1 font{
+    color: red;
+}
+
+.Testo1 p{
+    text-align: justify;
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    width: 400px;
+    color: aliceblue;
+   
+}
+
+.Testo1 h2{
+    color: aliceblue;
+    position: absolute;
+    top: -0.8em;
+    left: 1.3em;
+    border:solid aliceblue;
+}
+
+.Campo2{
+    background-color: black;
+    position: absolute;
+    width: 48.4%;
+    height: 30%;
+    right: 4em;
+    top: 31.6em;
+}
+
+.Campo2 h2{
+    color: aliceblue;
+    position: absolute;
+    right: 760px;
+    top: -3px;
+}
+
+.Campo2 p{
+    text-align: justify;
+    color: aliceblue;
+    position: absolute;
+    left: 1em;
+    width: 870px;
+    top: 2em;
+}
+
+.Campo img{
+    position: absolute;
+    top: 0px;
+    right: 4em;
+    width: 900px;
+    height: 500px;
+    border: 3px solid rgba(187, 160, 10, 0.733);
+}
+
+.Link{
+    position: absolute;
+    top: -1em;
+    left: 43em;
+    color: rgba(187, 160, 10, 0.733);
+}
+
+.Link a{
+    text-decoration: none;
+    color: rgba(187, 160, 10, 0.733);
+}
+
+.Link font{
+    color: rgba(187, 160, 10, 0.733);
+}

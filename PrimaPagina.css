@@ -1,0 +1,143 @@
+.Argomento1{
+    text-align: justify;
+    position: absolute;
+    left: 26em;
+    top: 4em;
+}
+
+.Argomento1 a{
+    color: brown;
+    text-decoration: none;
+}
+
+.Argomento2{
+    text-align: justify;
+    position: absolute;
+    right: 26em;
+    top: 27em;
+}
+
+.Argomento2 a{
+    text-decoration: none;
+    color: brown;
+}
+
+.Argomento3{
+    text-align: justify;
+    position: absolute;
+    left: 26em;
+    top: 50em;
+}
+
+.Argomento3 a{
+    text-decoration: none;
+    color: brown
+}
+
+
+
+
+h1 {
+    color: rgb(78, 17, 17);
+    background-color: rgb(167, 157, 157);
+    margin: -1em;
+    width: 2100px;
+    margin-top: -7px;
+    position: absolute;
+    left: -50px;
+  }
+
+.Colonna1{
+    position: absolute;
+    top: 1px;
+    left:-1px;
+    width: 400px;
+    height: 1080px;
+    border-right: 5px solid black;
+}
+
+.Colonna2{
+    position: absolute;
+    top: 1px;
+    right:-1px;
+    width: 400px;
+    height: 1080px;
+    border-left: 5px solid black;
+}
+
+.Freccia1{
+    position: absolute;
+    top: 22em;
+    left: 30em;
+    width: 250px;
+    transform: rotate(10deg);
+}
+
+.Freccia2{
+    position: absolute;
+    top: 42em;
+    left: 65em;
+    width: 210px;
+    transform: rotate(-40deg);
+}
+
+.Grafico{
+    position: absolute;
+    left: 65em;
+    top: 3em;
+    background-color: black;
+    width: 500px;
+    height: 333px;
+    border-radius: 10%;
+}
+
+.Grafico img{
+    position: absolute;
+    width: 340px;
+    border-radius: 10%;
+}
+
+.Grafico2{
+    position: absolute;
+    left: 20em ;
+    top: 30ems;
+}
+
+.Vapore{
+    background-color: black;
+    position: absolute;
+    left: 79em;
+    top: 53em;
+    width: 234.5px;
+    height: 163.2px;
+    border-radius: 10%;
+
+}
+
+.Vapore img{
+    position: absolute;
+    border-radius: 10%;
+  
+}
+
+.Link1 a{
+    position: absolute;
+    text-decoration: none;
+    top: 66em;
+    left: 47.9em;
+    color: rgb(199, 188, 30);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.Link1 font{
+    position: absolute;
+    color: rgb(0, 0, 0);
+}
+
+.Link2 a{
+    position: absolute;
+    left: 25.1em;
+    top: 3em;
+    color: rgb(199, 188, 30);
+    border: 2px solid rgb(0, 0, 0);
+}
